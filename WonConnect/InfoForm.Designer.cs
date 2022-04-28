@@ -40,7 +40,7 @@
             // panel_author_image
             // 
             this.panel_author_image.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(78)))), ((int)(((byte)(120)))));
-            this.panel_author_image.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_author_image.BackgroundImage")));
+            this.panel_author_image.BackgroundImage = global::WonConnect.Properties.Resources.naixn;
             this.panel_author_image.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel_author_image.Location = new System.Drawing.Point(11, 7);
             this.panel_author_image.Name = "panel_author_image";

@@ -117,38 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="panel_author_image.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-</value>
-  </data>
   <data name="textbox_information.Text" xml:space="preserve">
     <value>WonConnect est un outlis de connection automatique pour vos comptes Way of Naruto. 
 
