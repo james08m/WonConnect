@@ -43,7 +43,7 @@
             this.input_username.Location = new System.Drawing.Point(9, 8);
             this.input_username.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.input_username.Name = "input_username";
-            this.input_username.Size = new System.Drawing.Size(132, 20);
+            this.input_username.Size = new System.Drawing.Size(132, 23);
             this.input_username.TabIndex = 0;
             this.input_username.Text = "Utilisateur";
             this.input_username.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -55,7 +55,7 @@
             this.input_password.Location = new System.Drawing.Point(148, 8);
             this.input_password.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.input_password.Name = "input_password";
-            this.input_password.Size = new System.Drawing.Size(132, 20);
+            this.input_password.Size = new System.Drawing.Size(132, 23);
             this.input_password.TabIndex = 1;
             this.input_password.Text = "Mot de passe";
             this.input_password.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -78,10 +78,10 @@
             // 
             this.list_accounts.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.list_accounts.FormattingEnabled = true;
-            this.list_accounts.ItemHeight = 19;
+            this.list_accounts.ItemHeight = 22;
             this.list_accounts.Location = new System.Drawing.Point(9, 64);
             this.list_accounts.Name = "list_accounts";
-            this.list_accounts.Size = new System.Drawing.Size(271, 137);
+            this.list_accounts.Size = new System.Drawing.Size(271, 136);
             this.list_accounts.TabIndex = 3;
             // 
             // button_remove
@@ -114,7 +114,7 @@
             // 
             // AddForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(167)))), ((int)(((byte)(189)))), ((int)(((byte)(207)))));
             this.ClientSize = new System.Drawing.Size(289, 246);
